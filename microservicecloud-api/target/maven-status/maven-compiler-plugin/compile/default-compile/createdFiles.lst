@@ -1,0 +1,4 @@
+com\lyh\service\DeptClientServiceFallbackFactory.class
+com\lyh\service\DeptClientServiceFallbackFactory$1.class
+com\lyh\bean\Dept.class
+com\lyh\service\DeptClientService.class
