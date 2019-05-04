@@ -11,15 +11,15 @@
   	<!-- springcloud-config -->
  	<dependency>
   		<groupId>org.springframework.cloud</groupId>
-  		<artifactId>spring-cloud-starter-config-server</artifactId>
+  		<artifactId>spring-cloud-config-server</artifactId>
   	</dependency>
   	
   	<!-- 避免config的git插件报错：org/eclipse/jgit/api/TransportConfigCallback -->
-  	<dependency>
+  	<!-- <dependency>
   		<groupId>org.eclipse.jgit</groupId>
   		<artifactId>org.eclipse.jgit</artifactId>
   		<version>4.10.0.201712302008-r</version>
-  	</dependency>
+  	</dependency> -->
   
   	<!-- Hystrix相关  -->
   	<dependency>
